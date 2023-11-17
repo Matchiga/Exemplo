@@ -1,0 +1,14 @@
+C:\Users\MatheusChiga\source\repos\ScreenSoundLinq\bin\Debug\net6.0\ScreenSoundAPI.exe
+C:\Users\MatheusChiga\source\repos\ScreenSoundLinq\bin\Debug\net6.0\ScreenSoundAPI.deps.json
+C:\Users\MatheusChiga\source\repos\ScreenSoundLinq\bin\Debug\net6.0\ScreenSoundAPI.runtimeconfig.json
+C:\Users\MatheusChiga\source\repos\ScreenSoundLinq\bin\Debug\net6.0\ScreenSoundAPI.dll
+C:\Users\MatheusChiga\source\repos\ScreenSoundLinq\bin\Debug\net6.0\ScreenSoundAPI.pdb
+C:\Users\MatheusChiga\source\repos\ScreenSoundLinq\obj\Debug\net6.0\ScreenSoundAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MatheusChiga\source\repos\ScreenSoundLinq\obj\Debug\net6.0\ScreenSoundAPI.AssemblyInfoInputs.cache
+C:\Users\MatheusChiga\source\repos\ScreenSoundLinq\obj\Debug\net6.0\ScreenSoundAPI.AssemblyInfo.cs
+C:\Users\MatheusChiga\source\repos\ScreenSoundLinq\obj\Debug\net6.0\ScreenSoundAPI.csproj.CoreCompileInputs.cache
+C:\Users\MatheusChiga\source\repos\ScreenSoundLinq\obj\Debug\net6.0\ScreenSoundAPI.dll
+C:\Users\MatheusChiga\source\repos\ScreenSoundLinq\obj\Debug\net6.0\refint\ScreenSoundAPI.dll
+C:\Users\MatheusChiga\source\repos\ScreenSoundLinq\obj\Debug\net6.0\ScreenSoundAPI.pdb
+C:\Users\MatheusChiga\source\repos\ScreenSoundLinq\obj\Debug\net6.0\ScreenSoundAPI.genruntimeconfig.cache
+C:\Users\MatheusChiga\source\repos\ScreenSoundLinq\obj\Debug\net6.0\ref\ScreenSoundAPI.dll
